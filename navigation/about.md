@@ -10,7 +10,7 @@ My name is Nikith Muralikrishnan and I am a sophmore at Del Norte High School.
 
 I was born on October 4, 2008 in Stamford, Connecticut.
 
-I then moved to San, Diego California when I was around 3-4 months.
+I then moved to San, Diego California when I was around 3-4 months old.
 
 Both of my parents are from Tamilnadu, India and immigrated to America in the year 2000.
 
