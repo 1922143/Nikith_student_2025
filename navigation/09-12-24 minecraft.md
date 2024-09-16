@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minecraft
-permalink: /blogs/minecraft
+permalink: student_2025/minecraft
 ---
 
 Minecraft is a popular video game where you can explore, build, and survive in a blocky, open-world environment. Imagine a vast, digital world made up of tiny, cube-shaped blocks. These blocks represent different materials like dirt, stone, wood, and more.

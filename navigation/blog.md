@@ -5,4 +5,4 @@ search_exclude: true
 permalink: /blogs/
 ---
 
-- [Minecraft](/minecraft)
+- [Minecraft](../student_2025/minecraft)

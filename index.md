@@ -1,10 +1,17 @@
 ---
 layout: base
-title: Student Home 
-description: Home Page
+title: Home Page
+description: Here's my website!
 hide: true
 image: /images/mario_animation.png
 ---
+
+
+
+<h2>
+I am Nikith welcome to my website
+</h2>
+
 
 <!-- Liquid:  statements -->
 
@@ -239,6 +246,93 @@ The meaning of life is a deeply personal and philosophical question that varies 
     </div>
   </body>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red Button Example</title>
+    <style>
+        .big-red-button {
+            background-color: red;
+            color: white;
+            padding: 15px 30px;
+            font-size: 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .big-red-button:hover {
+            background-color: darkred;
+        }
+    </style>
+
+  <style>
+  .side {
+            position: relative;
+            height: 70px;
+        } 
+  .middle {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-10%, -80%);
+          }
+  </style>
+
+
+
+  <body>
+    <div class="side">
+          <div class="middle">About the LA Lakers</div>
+          <a href="https://en.wikipedia.org/wiki/Los_Angeles_Lakers" class="big-red-button">LA Lakers</a>
+    </div>
+  </body>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red Button Example</title>
+    <style>
+        .big-red-button {
+            background-color: red;
+            color: white;
+            padding: 15px 30px;
+            font-size: 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .big-red-button:hover {
+            background-color: darkred;
+        }
+    </style>
+
+  <style>
+  .side {
+            position: relative;
+            height: 70px;
+        } 
+  .middle {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-10%, -80%);
+          }
+  </style>
+
+
+
+  <body>
+    <div class="side">
+          <div class="middle">Learn about North Korea</div>
+          <a href="https://en.wikipedia.org/wiki/North_Korea" class="big-red-button">North Korea</a>
+    </div>
+  </body>
 
 
 
@@ -304,6 +398,8 @@ LeBron James is often hailed as the greatest basketball player of all time due t
 </style>
 </head>
 <body style="background-color:white;">
+
+<img src="images/IMG_2206.jpg" style="width:100%">
 
 <h2>Clickable Dropdown</h2>
 <p>Click on the button to open the dropdown menu.</p>
