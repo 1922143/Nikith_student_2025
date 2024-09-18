@@ -4,4 +4,4 @@ title: snake game
 permalink: /playsnakegame/
 ---
 
-# {% include snake.html%}
+{% include snake.html %}
