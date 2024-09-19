@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+comments: true 
 ---
 
 
@@ -188,4 +189,12 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 }
+</script>
+
+<script src="https://utteranc.es/client.js"
+        repo="1922143/Nikith_student_2025"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
 </script>
