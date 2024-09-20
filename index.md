@@ -407,9 +407,9 @@ LeBron James is often hailed as the greatest basketball player of all time due t
 <div class="dropdown">
   <button onclick="myFunction()" class="dropbtn">Dropdown</button>
   <div id="myDropdown" class="dropdown-content">
-    <a href="http://127.0.0.1:4100/student_2025/Would%20You%20Rather/">Would you rather</a>
-    <a href="http://127.0.0.1:4100/student_2025/Buttons/">Buttons</a>
-    <a href="http://127.0.0.1:4100/student_2025/blogs/">Blog</a>
+    <a href="http://127.0.0.1:4100/Nikith_student_2025/Would%20You%20Rather/">Would you rather</a>
+    <a href="http://127.0.0.1:4100/Nikith_student_2025/Buttons/">Buttons</a>
+    <a href="http://127.0.0.1:4100/Nikith_student_2025/blogs/">Blog</a>
   </div>
 </div>
 
