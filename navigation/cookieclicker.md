@@ -46,7 +46,7 @@ permalink: /cookieclicker/
     <button id="upgrade">Upgrade (Cost: 10 Cookies)</button>
 
     <!-- Sound effects -->
-    <audio id="clickSound" src="click.mp3" preload="auto"></audio>
+    <audio id="clickSound" src="../sounds/click.mp3" preload="auto"></audio>
     <audio id="upgradeSound" src="upgrade.mp3" preload="auto"></audio>
 
     <script>
