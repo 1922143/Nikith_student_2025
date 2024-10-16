@@ -19,8 +19,8 @@ In Minecraft, you can do several things:
 - Redstone Mechanics: Minecraft includes a system called redstone, which is used to create complex machines and mechanisms, from simple traps to intricate automated systems.
 
 Overall, Minecraft is known for its open-ended gameplay, allowing players to use their creativity to shape their world. It’s a game that can be as relaxing or as challenging as you want it to be!
-
 <img src="https://images4.alphacoders.com/112/thumb-1920-1128578.jpg" style="width:100%">
+
 
 <style>
     img {
