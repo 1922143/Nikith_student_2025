@@ -44,3 +44,4 @@ In high school, prioritize grades to get into a good college. In college, shift 
 Balance a strong GPA with meaningful projects. In college, focus on creating a portfolio of hands-on work that showcases your problem-solving and technical abilities, which are critical for future opportunities.
 
 ![student panel](../images/IMG_1000.jpg)
+

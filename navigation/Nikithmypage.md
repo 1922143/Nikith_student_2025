@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Setup Journey
-permalink: /My Setup Journey/
+title: Sprint 5 Reflection
+permalink: /sprint5/
 ---
 
 My experience setting up to start coding was interesting and while I had some trouble, I eventually did it in the end getting help from my peers and looking at slack for help. First, i created an account on github and made a repository. Then, I used the Terminal with the wsl command to set up a Linux shell and the apt command within that shell for installing developer tools on Ubuntu. On VS Code, I got all my extensions like Remote development pack, Jupyter Notebooks, Python, and Javascript to great ready to code. I also went on Ubuntu and made sure I got bundle, ruby, Jupyter, and Python all set up. After all the set up, Icreated a new project by typing this into a Linux supported terminal: 
