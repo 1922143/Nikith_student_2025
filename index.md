@@ -108,9 +108,9 @@ hide: true
 
 <div class="button-container">
   <a class="btn" href="https://www.linkedin.com/in/nikith-muralikrishnan-940408353/" target="_blank">LinkedIn Profile</a>
-  <a class="btn" href="#experience">Experience</a>
+  <a class="btn" href="_notebooks/Foundation/2025-06-11-Experiences.ipynb">Experience</a>
   <a class="btn" href="#showcases">Showcases</a>
-  <a class="btn" href="#certificates">Certificates</a>
+  <a class="btn" href="#_notebooks/Foundation/2025-06-12-Homework-Certification.ipynb">Certificates</a>
 </div>
 
 <div class="contact-card">
