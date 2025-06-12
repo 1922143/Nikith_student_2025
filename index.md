@@ -108,9 +108,9 @@ hide: true
 
 <div class="button-container">
   <a class="btn" href="https://www.linkedin.com/in/nikith-muralikrishnan-940408353/" target="_blank">LinkedIn Profile</a>
-  <a class="btn" href="_notebooks/Foundation/2025-06-11-Experiences.ipynb">Experience</a>
-  <a class="btn" href="_notebooks/Foundation/2025-06-12-Showcases.ipynb">Showcases</a>
-  <a class="btn" href="_notebooks/Foundation/2025-06-12-Homework-Certification.ipynb">Certificates</a>
+  <a class="btn" href="https://1922143.github.io/Nikith_student_2025/2025/06/11/Experiences_IPYNB_2_.html">Experience</a>
+  <a class="btn" href="https://1922143.github.io/Nikith_student_2025/2025/06/12/Showcases_IPYNB_2_.html">Showcases</a>
+  <a class="btn" href="https://1922143.github.io/Nikith_student_2025/2025/06/12/Homework-Certification_IPYNB_2_.html">Certificates</a>
 </div>
 
 <div class="contact-card">
